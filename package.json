@@ -1,0 +1,23 @@
+{
+  "name": "useonlinestatus",
+  "version": "1.0.0",
+  "description": "useOnlineStatus is a custom React hook that monitors the user's internet connection status in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building the package...\""
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "online",
+    "offline",
+    "network"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/shrivastava-26/useonlinestatus.git"
+  },
+  "author": "Prince Shrivastava",
+  "license": "MIT"
+}
